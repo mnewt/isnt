@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+
+# Homebrew
+brew update
+awk -F': ' '{print $1}' brew.txt | xargs brew install
+
+# Node.js Package Manager
+awk '/^(├──|├─┬)/ {print $2}' npm.txt | awk -F'@' '{print $1}' | xargs npm -g install
+
+# Python Packages
+awk -F'=' '{print $1}' pip.txt | xargs pip install
+
+# Mac Applications
+echo Install these applications by hand:
+echo
+cat Applications.txt
+
+# Mac App Store Applications
+# type it by hand > AppStore.txt

@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+# make fonts less bold
+# source: http://superuser.com/questions/457253/more-crisp-font-for-iterm-on-osx
+defaults write -g AppleFontSmoothing -int 1
+sudo defaults write -g AppleFontSmoothing -int 1
+# to re-apply defaults:
+# defaults write -g AppleFontSmoothing -int 2
+# sudo defaults write -g AppleFontSmoothing -int 2

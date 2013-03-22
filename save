@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+
+# Homebrew
+brew deps --installed > brew.txt
+
+# Node.js Package Manager
+npm ls -g > npm.txt
+
+# Python Packages
+pip freeze > pip.txt
+
+# Mac Applications
+ls /Applications > Applications.txt
+
+# Mac App Store Applications
+# type it by hand > AppStore_Applications.txt
