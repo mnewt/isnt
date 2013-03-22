@@ -1,0 +1,74 @@
+Alfred 2.app
+App Store.app
+AppCleaner.app
+Automator.app
+Calculator.app
+Calendar.app
+Chess.app
+Citrix Receiver.app
+CoRD.app
+Cobook.app
+Contacts.app
+Cyberduck.app
+DVD Player.app
+Dash.app
+Dashboard.app
+Dictionary.app
+Dropbox.app
+Evernote.app
+FaceTime.app
+Firefox.app
+Fluid.app
+Font Book.app
+Game Center.app
+GarageBand.app
+Google Calendar.app
+Google Chrome.app
+Growl.app
+Image Capture.app
+Jump Desktop.app
+Keka.app
+Keynote.app
+Launchpad.app
+Mail.app
+Messages.app
+Microsoft Office 2011
+Mission Control.app
+Mou.app
+NetNewsWire.app
+Notes.app
+Numbers.app
+OmniGraffle Professional 5.app
+OmniPlan.app
+Pages.app
+Parallels Desktop.app
+Photo Booth.app
+Pixelmator.app
+Pocket.app
+Preview.app
+Private Eye.app
+QuickTime Player.app
+Reminders.app
+Remote Desktop Connection.app
+Rubbernet.app
+SQLite Database Browser 2.0 b1.app
+Safari.app
+Skitch.app
+Snagit.app
+Sparrow.app
+Stickies.app
+StreamToMe.app
+Sublime Text.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+Transmission.app
+Twitter.app
+Utilities
+VLC.app
+Viscosity.app
+Xcode.app
+iMovie.app
+iPhoto.app
+iTerm.app
+iTunes.app

@@ -1,0 +1,63 @@
+ack: 
+apple-gcc42: 
+autoconf: 
+autojump: 
+automake: autoconf
+autossh: 
+c-ares: 
+cmake: 
+coreutils: xz
+fontconfig: freetype pkg-config
+freerdp: cmake pkg-config
+freetype: 
+gdbm: 
+gettext: 
+git: pcre
+glib: pkg-config xz gettext libffi
+gmp: 
+gnu-sed: 
+gnutls: xz pkg-config libtasn1 p11-kit nettle
+grc: 
+imagemagick: libtool pkg-config jpeg libpng freetype fontconfig libtiff little-cms jasper libwmf librsvg liblqr openexr ghostscript
+intltool: 
+jasper: jpeg
+jpeg: 
+libevent: 
+libffi: 
+libgcrypt: libgpg-error
+libgpg-error: 
+libksba: libgpg-error
+libtasn1: 
+libtiff: 
+libtool: 
+libyaml: 
+little-cms: jpeg libtiff
+lzo: 
+mercurial: 
+netcat: 
+nettle: gmp
+nmap: 
+node: 
+objective-caml: 
+openssl: 
+p11-kit: 
+pcre: 
+pkg-config: 
+protobuf: 
+python: pkg-config readline sqlite gdbm
+python3: pkg-config readline sqlite gdbm
+rbenv: 
+readline: 
+redis: 
+rsync: autoconf
+ruby: pkg-config readline gdbm libyaml openssl
+ruby-build: autoconf pkg-config
+sqlite: readline
+tmux: pkg-config libevent
+tree: 
+unison: objective-caml
+vimpager: 
+watch: 
+wget: 
+xz: 
+zsh: gdbm pcre
